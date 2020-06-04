@@ -1,5 +1,12 @@
 function addTwoDigits(num)  {
     //  write code here.
+    const array = num.toString().split("")
+    
+    const firstNumber = parseInt(array[0])
+    const secondNumber = parseInt(array[1])    
+    
+    return firstNumber + secondNumber
+
 }
 
 
