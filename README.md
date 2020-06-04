@@ -1,5 +1,14 @@
 # Challenge: Add Two Digits (Introduction)
 
+![] (ChallengeDay2.png)
+
+## Run it
+
+To try and review this challenge, download it, open intex.html and open the project folder with VisualStudioCode (or your IDE of prefference).
+You can modify the main.js file which contains the solution and the test provided.
+
+Thanks Dylan Israel and Per Harald for creating this awesome challenges and tutorials!!
+
 ## Supporting Scrimba
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to
