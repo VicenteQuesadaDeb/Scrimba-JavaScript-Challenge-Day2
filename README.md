@@ -1,6 +1,6 @@
 # Challenge: Add Two Digits (Introduction)
 
-![Challenge Day 2](ChallengeDay2.png)
+![Challenge Day 2](ChallengeDay2.jpg)
 
 ## Run it
 
